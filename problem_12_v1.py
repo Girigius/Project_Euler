@@ -1,5 +1,5 @@
 """
-__author__ = "George Ng"
+__author__ = "Girigius"
 __version__ = "1"
 
 Problem number: 12
